@@ -1,8 +1,6 @@
-# ndslabs-iassist-startup
-NDSLabs setup/configuration for IASSIST cluster
+# Startup scripts for IASSIST cluster
 
-Below are the steps used to create www.iassist.ndslabs.org cluster:
-
+Below are the steps used to create www.iassist.ndslabs.org cluster.
 
 ## Provision nodes, install Kubernetes servies
 Start the deploy-tools container
